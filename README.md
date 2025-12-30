@@ -113,7 +113,7 @@ python main.py search_image "a sunset at the beach"
 
 ```
 示例运行结果：
-![img_6.png](img_6.png)
+![img_6.png](readme_images/img_6.png)
 ### 5. Streamlit 可视化控制台
 
 启动美观的 Web 后台，享受一键式上传、进度条显示及图片并排展示体验。
