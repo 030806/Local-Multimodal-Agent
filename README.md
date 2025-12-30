@@ -116,7 +116,7 @@ python main.py search_image "a sunset at the beach"
 ![img_6.png](readme_images/img_6.png)
 ### 5. Streamlit 可视化控制台
 
-启动美观的 Web 后台，享受一键式上传、进度条显示及图片并排展示体验。
+启动美观的 Web 后台，享受一键式上传、进度条显示及图片并排展示体验。具体页面与功能实现可查看系统演示视频
 
 ```bash
 streamlit run ui.py
